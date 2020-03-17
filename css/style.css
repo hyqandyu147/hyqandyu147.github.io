@@ -4,7 +4,9 @@
 html {
   font-size: 14px;
 }
-background-color: #5F9EA0,
+body {
+  background-color: #5f9ea0;
+}
 body,
 button,
 input,
